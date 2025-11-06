@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shweta-Data-Analyst-Portfolio/static/css/main.277f8205.css",
+    "main.js": "/Shweta-Data-Analyst-Portfolio/static/js/main.30ecba96.js",
+    "index.html": "/Shweta-Data-Analyst-Portfolio/index.html",
+    "main.277f8205.css.map": "/Shweta-Data-Analyst-Portfolio/static/css/main.277f8205.css.map",
+    "main.30ecba96.js.map": "/Shweta-Data-Analyst-Portfolio/static/js/main.30ecba96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277f8205.css",
+    "static/js/main.30ecba96.js"
+  ]
+}
